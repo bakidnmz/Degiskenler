@@ -1,0 +1,2 @@
+# Degiskenler
+Python'da degişkenler
